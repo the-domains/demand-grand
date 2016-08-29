@@ -1,0 +1,14 @@
+layout_spectrum: 0.04299527918919921
+typography_spectrum: 0.026720255613327026
+color:
+  brandStrength: 0.7398983337916434
+  lightness: 0.10545821487903595
+  saturation: 0.5299996356479824
+  rhythmicContrast: 0.9070120609831065
+  brandColors:
+    - '#3E454C'
+    - '#2185C5'
+    - '#7ECEFD'
+    - '#FFF6E5'
+    - '#FF7F66'
+name: Demand Grand
