@@ -12,4 +12,8 @@ color:
     - '#FF7F66'
 layout_spectrum: 0.04299527918919921
 name: Demand Grand
+navigation:
+  - name: Store Front
+    url: 'http://demandgrand.etsy.com'
+    type: external
 title: Demand Grand
