@@ -16,4 +16,7 @@ navigation:
   - name: Store Front
     url: 'http://demandgrand.etsy.com'
     type: external
+  - name: Facebook
+    url: 'http://www.facebook.com/demandgrand'
+    type: external
 title: Demand Grand
