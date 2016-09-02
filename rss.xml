@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Demand Grand]]></title>
+        <description><![CDATA[Demand Grand]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Tue, 30 Aug 2016 21:38:14 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Demand Grand by DemandGrand]]></title>
+            <description><![CDATA[<article><h1>Demand Grand by DemandGrand</h1><p>Browse unique items from DemandGrand on Etsy, a global marketplace of handmade, vintage and creative goods.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/aacdd4b94e97738216780ca02611ca65/croprotate.jpg?cropheight=1220&cropwidth=2071&degrees=0&input=https%3A%2F%2Fimg0.etsystatic.com%2F073%2F0%2F7550399%2Fisla_fullxfull.15805720_sb10fo1a.jpg&x=0&y=421"></article>]]></description>
+            <link>http://demandgrand.etsy.com</link>
+            <guid isPermaLink="false">5bbc1b07-c939-4ce2-a3d2-6e5e3806e463</guid>
+            <pubDate>Tue, 30 Aug 2016 21:38:11 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
