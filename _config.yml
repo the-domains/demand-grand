@@ -11,6 +11,8 @@ color:
     - '#FFF6E5'
     - '#FF7F66'
 layout_spectrum: 0.04299527918919921
+author:
+  name: Kim V. Diaz
 name: Demand Grand
 navigation:
   - name: Store Front
