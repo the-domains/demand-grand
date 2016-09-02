@@ -21,7 +21,7 @@ navigation:
   - name: Facebook
     url: 'http://www.facebook.com/demandgrand'
     type: external
-  - name: Email
+  - name: Make Contact
     url: 'mailto:demandgrand@gmail.com'
     type: external
   - name: Our Pinterest Boards
