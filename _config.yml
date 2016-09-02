@@ -24,5 +24,8 @@ navigation:
   - name: Email
     url: 'mailto:demandgrand@gmail.com'
     type: external
+  - name: Our Pinterest Boards
+    url: 'https://www.pinterest.com/demandgrand/'
+    type: external
 title: Demand Grand
 description: because life's milestone's are far from boring
